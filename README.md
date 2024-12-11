@@ -1,4 +1,4 @@
-# Portfolio Website with CMS
+# EazyBytes Portfolio Website with CMS
 
 ## Project Overview
 
@@ -24,7 +24,7 @@ This is a **Portfolio Website** integrated with a **Content Management System (C
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/portfolio-website-with-cms.git
+   git clone (https://github.com/yashav-shukla/EazyByts.git)
 
 2. Install dependencies:
 
